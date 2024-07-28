@@ -147,6 +147,7 @@ body{
     padding: 4rem 3rem;
     border-radius: 10px;
     border-top: 10px dotted #f75757;
+    margin: 10px 0px 0px 0px;
 }
 .about h1{
     margin-bottom: 1.1rem;

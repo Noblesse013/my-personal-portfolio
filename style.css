@@ -142,7 +142,7 @@ body{
 }
 /*****about section ****/
 .about{
-    background: rgba(194, 194, 186, 0.349);
+    background: rgb(194, 194, 186, 0.349);
     max-width: 800px;
     padding: 4rem 3rem;
     border-radius: 10px;
